@@ -1,0 +1,31 @@
+{
+  "name": "n2r",
+  "version": "1.0.0",
+  "description": "yarn & npm & pnpm registry manager can help you easy and fast switch between different registries, now include: cnpm, taobao, nj(nodejitsu), rednpm, edunpm",
+  "bin": {
+    "n2r": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dengshenkk/n2r.git"
+  },
+  "scripts": {
+    "star": "npm star n2r"
+  },
+  "keywords": [
+    "npm",
+    "yarn",
+    "pnpm",
+    "registry"
+  ],
+  "author": "dengshen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dengshen/n2r/issues"
+  },
+  "homepage": "https://github.com/dengshen/n2r",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0"
+  }
+}

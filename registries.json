@@ -1,0 +1,18 @@
+[
+  {
+    "name": "npm",
+    "value": "https://registry.npmjs.org/"
+  },
+  {
+    "name": "cnpm",
+    "value": "http://r.cnpmjs.org/"
+  },
+  {
+    "name": "taobao",
+    "value": "https://registry.npm.taobao.org/"
+  },
+  {
+    "name": "yarn",
+    "value": "https://registry.yarnpkg.com/"
+  }
+]
